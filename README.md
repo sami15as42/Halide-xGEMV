@@ -31,7 +31,7 @@ To run the ```script.sh```, you just need to execute: ``` ./script.sh ```
 If everything turns well, you should get this output:
 ```
 Please enter the absolute path or a relative path of your Halide folder: ../Halide
-Deleting ./result.txt if it exists
+Deleting ./result/result.txt if it exists
 [sudo] Mot de passe de assenine-sami : 
 ###############################
 Compiling halide_program.cpp...
