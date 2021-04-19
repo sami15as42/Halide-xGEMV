@@ -17,6 +17,7 @@ To install Halide from source, we can follow this steps:
   - ``` git clone https://github.com/halide/Halide.git ```
   - ``` cd Halide ```
   - ``` make -j8 ```
+
 The file log.txt contains the log of all the text printed on terminal during the installation.
 
 ## Script execution
