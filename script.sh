@@ -1,5 +1,5 @@
 read -p "Please enter the absolute path or a relative path of your Halide folder: " path
-echo "Deleting ./result.txt if it exists"
+echo "Deleting ./result/result.txt if it exists"
 sudo rm -f ./result/result.txt
 echo "###############################"
 echo "Compiling halide_program.cpp..."
